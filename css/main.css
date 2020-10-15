@@ -1,0 +1,42 @@
+body
+{
+	font-family: 'Playfair Display Black', serif;
+	margin: 0;
+	padding: 0;
+}
+#right
+{
+	position: fixed;
+	left: 50%;
+	height: 100%;
+	width: 50%;
+	background-color: black;
+	
+}
+
+#left
+{
+	position: fixed;
+	right: 50%;
+	height: 100%;
+	width: 50%;
+	background-color: white;
+	
+}
+
+h1
+{
+	text-align: center;
+	padding-top: 20%;
+	color: white;
+	font-size: 200px;
+}
+
+h2
+{
+	text-align: center;
+	padding-top: 20%;
+	color: black;
+	font-size: 200px;
+}
+
