@@ -36,3 +36,9 @@ body
 {
 	display: none;
 }
+a
+{
+	font-style: italic;
+	font-size: 40px;
+	color: white;
+}
