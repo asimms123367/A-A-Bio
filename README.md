@@ -1,10 +1,10 @@
 # Hello! Wah Gwaan?! Kem Cho! 
 Welcome to Our repository!! From different parts of the world showcasing a bit about us.
 
-#What is this About? Weh Dis Bout? Aa Su Che?
+# What is this About? Weh Dis Bout? Aa Su Che?
 This is our Home Work Assignment #1 where we build a 1-page application that describes our team. Here we tell you about where we are from, what we like, what we do.
 
-#Please do this 
+# Please do this 
 Copy repository from GitHub to a preferred project location.
 Install fonts from the fonts folder for a better viewing experience.
 
