@@ -1,8 +1,13 @@
-# A-A-Bio
-A repository for Asim and Andenis - To showcase Home Work number 1.
+# Hello! Wah Gwaan?! Kem Cho! 
+Welcome to Our repository!! From different parts of the world showcasing a bit about us.
 
-#Project Description
-This is our Home Work #1 Assignment of building a 1-page application that describes our team which includes where we are from, our hobiies and a bit more about us.
+#What is this About? Weh Dis Bout? Aa Su Che?
+This is our Home Work Assignment #1 where we build a 1-page application that describes our team. Here we tell you about where we are from, what we like, what we do.
+
+#Please do this 
+Copy repository from GitHub to a preferred project location.
+Install fonts from the fonts folder for a better viewing experience.
+
 
 # MIT License
 Copyright 2020 Andenis Simms Asim Mehta
